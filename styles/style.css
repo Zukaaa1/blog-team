@@ -124,3 +124,17 @@ table {
 }
 
 /* ! Main */
+
+@font-face {
+  font-family: "deca";
+  src: url("../assets/fonts/LexendDeca.ttf");
+}
+
+body {
+  font-family: "deca";
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
